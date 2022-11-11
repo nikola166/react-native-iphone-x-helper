@@ -1,12 +1,8 @@
-## ❗❗❗ PLEASE NOTICE ❗❗❗ This package is not longer maintained, plaease use alternatives like `react-native-safe-area-context`
-
-[![npm version](https://badge.fury.io/js/react-native-iphone-x-helper.svg)](https://badge.fury.io/js/react-native-iphone-x-helper)
-
 # react-native-iphone-x-helper
 A library to help you design your react-native app for notched iPhones.
 
 ## Installing ##
-`npm i react-native-iphone-x-helper --save`
+`npm i nikola166/react-native-iphone-x-helper --save`
 
 ## API ##
 
